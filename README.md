@@ -46,7 +46,7 @@ NODE_ENV=development
  1. git clone https://github.com/rionmingarfin/test-oxa.git
  2. open text editor
  3. run the web server and mysql application,example `xampp`
- 4. import db simple_note in phpmyadmin
+ 4. import db game in phpmyadmin
  5. open terminal in CMD or terminal text editor(visual studio code)
  6. type `npm install`
  7. tambahkan [.env](https://github.com/rionmingarfin/test-oxa.git)
